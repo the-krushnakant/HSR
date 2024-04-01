@@ -8,7 +8,7 @@ The government is building high speed rail using loans. Thus, the project must b
 
 The ridership table is given below. Some insights are:
 
-1. The Delhi-Mumbai route has massive ridership potential unmatched by any other corridor. However, a simple extension of this route to Pune would result in a huge 21% increase. 
+1. The Delhi-Mumbai route has massive ridership potential unmatched by any other corridor. However, a simple extension of this route to Pune would result in as much as 21% increase. 
 2. The Mumbai-Chennai route via Bengaluru is much more viable than any 
 other route, even on a per-kilometre basis. This route, however, is 
 not even being considered by government in favor of other 
