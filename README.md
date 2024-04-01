@@ -31,3 +31,10 @@ shorter routes.
 |Bengaluru-Chennai|290|3359|347|
 |Mumbai-Dabolim-Mangalore-Kannur-Kozhikode-Kochi-Trivandrum|1252|13617|326|
 |Hyderabad-Vijaywada-Tirupati-Chennai|654|5959|273|
+
+
+
+
+### Some drawbacks
+
+The airports at Mumbai and Pune are saturated, hence the supply doesn't reflect demand. Surat, despite being one of top 10 Indian cities, didn't have a major airport. The ridership demand along these cities is thus much more than what is reflected by this method.
