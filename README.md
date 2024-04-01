@@ -37,4 +37,4 @@ shorter routes.
 
 ### Some drawbacks
 
-The airports at Mumbai and Pune are saturated, hence the supply doesn't reflect demand. Surat, despite being one of top 10 Indian cities, didn't have a major airport. The ridership demand along these cities is thus much more than what is reflected by this method.
+The airports at Mumbai and Pune are saturated, hence the supply doesn't reflect demand. Surat, despite being one of top 10 Indian cities, didn't have a major airport. The ridership demand along these cities is thus much more than what is reflected by this method. Also, the supply of airplane seats on small length routes such as Mumbai-Pune or Surat-Vadodara doesn't reflect demand of HSR because many people simply choose to travel by cars or vanilla railways.
